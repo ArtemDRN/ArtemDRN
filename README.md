@@ -7,7 +7,7 @@
  
 Recent project:<br/>
  :pushpin:
- The platform, which helps company owners to hire freelancers for any type of work (video production, music, construction, etc.), provides convenient payment methods in  various ways (implementation of a wallet and linked bank accounts options on the platform) and has a subscription service.
+ A platform, which helps company owners to hire freelancers for any type of work (video production, music, construction, etc.), provides convenient payment methods in  various ways (implementation of a wallet and linked bank accounts) and has a subscription service.
 
 Languages and Frameworks:<br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/python"/> Python <br/>
