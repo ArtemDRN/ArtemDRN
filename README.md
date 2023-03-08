@@ -2,8 +2,8 @@
 ### A skilled Django developer with 4+ years of experience
 
  Develops and deploys backend services with a focus on high quality and scalability
- Detail-oriented and flexible in requirements changes, able to dive deep into the project details and new technologies
- Able to work as an independent unit in a team
+ - Detail-oriented and flexible in requirements changes, able to dive deep into the project details and new technologies
+ - Able to work as an independent unit in a team
  
 Recent project:<br/>
  :pushpin:
